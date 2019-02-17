@@ -1,0 +1,6 @@
+Changed draw_score() function to draw_num()
+draw_num() uses the array NUMBERS in constants.py
+
+Added Ball class
+
+Added new constants (SCORE_COLOUR etc)
